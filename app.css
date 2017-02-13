@@ -2,6 +2,7 @@ body {
 	background: url(http://i.imgur.com/UsK2HlB.jpg);
 	background-size: cover;
 	background-position: center;
+	font-family: Lato;
 }
 
 #content {
